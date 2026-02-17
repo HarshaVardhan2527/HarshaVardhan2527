@@ -19,10 +19,29 @@ I enjoy transforming raw data into analytics-ready datasets that drive real busi
 - Programming: Python, SQL
 - Big Data: PySpark, Apache Spark
 - Cloud Platform: Microsoft Azure
+  
 🔹 Azure Services
 - Azure Data Factory (ADF)
 - Azure Databricks
 - Azure Data Lake Storage (ADLS Gen2)
 - Azure Synapse Analytics
 - Azure SQL / SQL Pools
+
+
+📊 Key Skills
+- Data Pipeline Development
+- Batch & Incremental Processing
+- Data Modeling & Optimization
+- Performance Tuning in Spark
+- Cloud Cost Optimization
+- Data Quality & Validation
+
+🤝 Let’s Connect
+
+💼 LinkedIn: [Harshavardhan Gaddam](https://www.linkedin.com/in/harshavardhan-gaddam-104224217)
+
+📧 Email: [Harshavardhan](harshavardhangaddam2527@gmail.com)
+
+🧑‍💻 GitHub: You’re already here 😄
+
 
