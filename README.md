@@ -29,15 +29,25 @@ I enjoy transforming raw data into analytics-ready datasets that drive real busi
 🏗️ Architecture
 
 Source Systems
+    
      ↓
+
 Azure Data Factory
+   
      ↓
+
 Azure Data Lake (Raw → Curated)
+    
      ↓
+
 Azure Databricks (PySpark Processing)
+    
      ↓
+
 Azure Synapse / SQL
+    
      ↓
+
 BI & Analytics
 
 <!--
