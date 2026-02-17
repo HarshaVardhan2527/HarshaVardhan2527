@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I'm Harshavardhan Gaddam
+
+🚀 Azure Data Engineer | Big Data & Cloud Enthusiast
+
+I’m a Data Engineer passionate about building scalable, reliable, and high-performance data pipelines on Microsoft Azure.
+I enjoy transforming raw data into analytics-ready datasets that drive real business insights.
+
 
 <!--
 **HarshaVardhan2527/HarshaVardhan2527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
