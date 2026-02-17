@@ -40,7 +40,7 @@ I enjoy transforming raw data into analytics-ready datasets that drive real busi
 
 💼 LinkedIn: [Harshavardhan Gaddam](https://www.linkedin.com/in/harshavardhan-gaddam-104224217)
 
-📧 Email: [Harshavardhan](harshavardhangaddam2527@gmail.com)
+📧 Email: harshavardhangaddam2527@gmail.com
 
 🧑‍💻 GitHub: You’re already here 😄
 
