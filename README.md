@@ -21,6 +21,7 @@ I enjoy transforming raw data into analytics-ready datasets that drive real busi
 - Cloud Platform: Microsoft Azure
   
 🔹 Azure Services
+
 - Azure Data Factory (ADF)
 - Azure Databricks
 - Azure Data Lake Storage (ADLS Gen2)
